@@ -7,55 +7,55 @@ qualityDefinitions:
     Bluray-1080p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     Bluray-2160p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     Bluray-480p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     Bluray-576p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     Bluray-720p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     CAM:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     DVD:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     DVD-R:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     DVDSCR:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     HDTV-1080p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     HDTV-2160p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     HDTV-720p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     REGIONAL:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     Raw-HD:
       max: 2000
       min: 0
@@ -71,55 +71,55 @@ qualityDefinitions:
     SDTV:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     TELECINE:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     TELESYNC:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     Unknown:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WEBDL-1080p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WEBDL-2160p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WEBDL-480p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WEBDL-720p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WEBRip-1080p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WEBRip-2160p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WEBRip-480p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WEBRip-720p:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
     WORKPRINT:
       max: 175
       min: 0
-      max: 150
+      preferred: 150
   sonarr:
     Bluray-1080p:
       max: 1000

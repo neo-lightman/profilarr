@@ -1,6 +1,6 @@
 -- ============================================================================
 -- Merged Profilarr v2 snapshot
--- Generated: 2026-11-12 13:22 UTC
+-- Generated: 2026-11-13 12:41 UTC
 -- Sources:
 --   Dictionarry-Hub/schema    (e1c2bd73)
 --   Dictionarry-Hub/database  @ v2     (798141f8)
